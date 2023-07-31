@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Chancellerie Thesis Price'
+tags: [News]
 ---
 
 

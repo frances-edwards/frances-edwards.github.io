@@ -50,8 +50,8 @@ author:
 menu:
   - title:             About
     url:               /about/
-#  - title:             News
-#    url:               /news/
+  - title:             News
+    url:               /news/
   - title:             Publications
     url:               /publications/
 

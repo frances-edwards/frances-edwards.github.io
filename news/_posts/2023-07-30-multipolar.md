@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Centrosome amplification primes for apoptosis and favors the response to chemotherapy in ovarian cancer beyond multipolar divisions'
+tags: [News]
 ---
 
 Our research on centrosome amplification in epithelial ovarian cancer cells
