@@ -4,8 +4,7 @@ title: Centrosome amplification primes for apoptosis and favors the response to 
 image: 
 # path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
-  Centrosome amplification primes for apoptosis and favors the response to chemotherapy in ovarian cancer beyond multipolar divisions
-sitemap: false
+  sitemap: false
 ---
 
 Our research on centrosome amplification in epithelial ovarian cancer cells
