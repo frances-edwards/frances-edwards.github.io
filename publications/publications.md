@@ -26,7 +26,7 @@ microtubules by BUB-1, HCP-1 and CLS-2 controls microtubule pausing and meiotic 
 # Other scientific contributions
 
 - *PhD dissertation*: July, 3<sup>st</sup> 2018. Mécanismes d’alignement et de ségrégation des chromosomes 
-lors de la mitose dans les zygotes de Caenorhabditis elegans ([PDF](https://wo.app.u-paris.fr/cgi-bin/WebObjects/TheseWeb.woa/3/wo/aPLBpeWEW3QthwqRFGatv0/3.0.0.14.1.3.1.5.0.1.1.1.11.23.2.7.1.1.1.1.1.3.1). 
+lors de la mitose dans les zygotes de Caenorhabditis elegans ([PDF](https://wo.app.u-paris.fr/cgi-bin/WebObjects/TheseWeb.woa/3/wo/aPLBpeWEW3QthwqRFGatv0/3.0.0.14.1.3.1.5.0.1.1.1.11.23.2.7.1.1.1.1.1.3.1)). 
 Supervised by Julien Dumont. Jury composed of 
 Dr. [Reto GASSMANN](https://scholar.google.com/citations?user=ZRW58RoAAAAJ&hl=en) (reporter), 
 Dr. [Julie WELBURN](https://scholar.google.com/citations?user=HfNaicsAAAAJ&hl=en) (reporter), 
