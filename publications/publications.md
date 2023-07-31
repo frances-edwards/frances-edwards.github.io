@@ -17,7 +17,7 @@ permalink: /publications/
 22. N. Macaisne, L. Bellutti, K. Laband, **F. Edwards**, L. Pitayu-Nugroho, A. Gervais, T. Ganeswaran, 
 H. Geoffroy, G. Maton, J. C. Canman, B. Lacroix, J. Dumont 2022. Synergistic stabilization of 
 microtubules by BUB-1, HCP-1 and CLS-2 controls microtubule pausing and meiotic spindle assembly. 
-[*Elife*](/assets/publi/Macaisne_2022_synergistic.pdf).
+[*Elife*](https://elifesciences.org/articles/82579#downloads.
 
 # Book Chapters 
 
@@ -26,7 +26,7 @@ microtubules by BUB-1, HCP-1 and CLS-2 controls microtubule pausing and meiotic 
 # Other scientific contributions
 
 - *PhD dissertation*: July, 3<sup>st</sup> 2018. Mécanismes d’alignement et de ségrégation des chromosomes 
-lors de la mitose dans les zygotes de Caenorhabditis elegans ([PDF](/assets/publi/Edwards_2018-PhD.pdf)). 
+lors de la mitose dans les zygotes de Caenorhabditis elegans ([PDF](https://wo.app.u-paris.fr/cgi-bin/WebObjects/TheseWeb.woa/3/wo/aPLBpeWEW3QthwqRFGatv0/3.0.0.14.1.3.1.5.0.1.1.1.11.23.2.7.1.1.1.1.1.3.1). 
 Supervised by Julien Dumont. Jury composed of 
 Dr. [Reto GASSMANN](https://scholar.google.com/citations?user=ZRW58RoAAAAJ&hl=en) (reporter), 
 Dr. [Julie WELBURN](https://scholar.google.com/citations?user=HfNaicsAAAAJ&hl=en) (reporter), 
