@@ -17,7 +17,7 @@ permalink: /publications/
 22. N. Macaisne, L. Bellutti, K. Laband, **F. Edwards**, L. Pitayu-Nugroho, A. Gervais, T. Ganeswaran, 
 H. Geoffroy, G. Maton, J. C. Canman, B. Lacroix, J. Dumont 2022. Synergistic stabilization of 
 microtubules by BUB-1, HCP-1 and CLS-2 controls microtubule pausing and meiotic spindle assembly. 
-[*Elife*](https://elifesciences.org/articles/82579#downloads.
+[*Elife*](https://elifesciences.org/articles/82579#downloads).
 
 # Book Chapters 
 
