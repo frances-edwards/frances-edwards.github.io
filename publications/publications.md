@@ -15,18 +15,18 @@ permalink: /publications/
 {:toc .large-only}
 
 22. N. Macaisne, L. Bellutti, K. Laband, **F. Edwards**, L. Pitayu-Nugroho, A. Gervais, T. Ganeswaran, 
-H. Geoffroy, G. Maton, J. C. Canman, B. Lacroix, J. Dumont 2022. Synergistic stabilization of 
+H. Geoffroy, G. Maton, J. C. Canman, B. Lacroix, J. Dumont. Synergistic stabilization of 
 microtubules by BUB-1, HCP-1 and CLS-2 controls microtubule pausing and meiotic spindle assembly. 
-[*eLife*](https://elifesciences.org/articles/82579#downloads), 12, e82579
+[*eLife*](https://elifesciences.org/articles/82579#downloads) (2022), 12, e82579
 
-21. S. M. Hirsch, **F. Edwards**, M. Shirasu-Hiza, J. Dumont, J. C. Canman 2022. Functional midbody assembly 
+21. S. M. Hirsch, **F. Edwards**, M. Shirasu-Hiza, J. Dumont, J. C. Canman. Functional midbody assembly 
 in the absence of a central spindle.
-[*Journal of Cell Biology*](https://rupress.org/jcb/article/221/3/e202011085/212948/Functional-midbody-assembly-in-the-absence-of-a) 
+[*Journal of Cell Biology*](https://rupress.org/jcb/article/221/3/e202011085/212948/Functional-midbody-assembly-in-the-absence-of-a) (2022)
 221 (3): e202011085
 
 20. A. Goupil, M. Nano, G. Letort, S. Gemble, **F. Edwards**, O. Goundiam, D. Gogendeau, C. Pennetier, R. Basto. 2020
 Chromosomes function as a barrier to mitotic spindle bipolarity in polyploid cells.
-[*Journal of Cell Biology*](https://rupress.org/jcb/article/219/4/e201908006/133854/Chromosomes-function-as-a-barrier-to-mitotic) 
+[*Journal of Cell Biology*](https://rupress.org/jcb/article/219/4/e201908006/133854/Chromosomes-function-as-a-barrier-to-mitotic) (2020)
 219 (4): e201908006
 
 # Book Chapters 
