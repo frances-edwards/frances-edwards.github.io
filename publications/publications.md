@@ -17,7 +17,13 @@ permalink: /publications/
 22. N. Macaisne, L. Bellutti, K. Laband, **F. Edwards**, L. Pitayu-Nugroho, A. Gervais, T. Ganeswaran, 
 H. Geoffroy, G. Maton, J. C. Canman, B. Lacroix, J. Dumont 2022. Synergistic stabilization of 
 microtubules by BUB-1, HCP-1 and CLS-2 controls microtubule pausing and meiotic spindle assembly. 
-[*eLife*](https://elifesciences.org/articles/82579#downloads).
+[*eLife*](https://elifesciences.org/articles/82579#downloads), 12, e82579
+
+21. S. M. Hirsch, F. Edwards, M. Shirasu-Hiza, J. Dumont, J. C. Canman 2022. Functional midbody assembly 
+in the absence of a central spindle 
+[*Journal of Cell Biology*](https://rupress.org/jcb/article/221/3/e202011085/212948/Functional-midbody-assembly-in-the-absence-of-a) 
+221 (3): e202011085
+
 
 # Book Chapters 
 
