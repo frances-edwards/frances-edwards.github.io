@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 'Chancellerie Thesis Price'
-image: 
-    path: /assets/img/sorbonne.png
 ---
 
 
