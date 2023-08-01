@@ -29,7 +29,7 @@ Chromosomes function as a barrier to mitotic spindle bipolarity in polyploid cel
 [*Journal of Cell Biology*](https://rupress.org/jcb/article/219/4/e201908006/133854/Chromosomes-function-as-a-barrier-to-mitotic) (2020)
 219 (4): e201908006
 
-6. *F. Edwards*, G. Maton, N. Gareil, J. C. Canman, J. Dumont.
+6. **F. Edwards**, G. Maton, N. Gareil, J. C. Canman, J. Dumont.
 BUB-1 promotes amphitelic chromosome biorientation via multiple activities at the kinetochore.
 [*eLife*](https://elifesciences.org/articles/40690) (2018) 7: e4069
 
