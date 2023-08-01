@@ -49,7 +49,7 @@ Inhibition of ectopic microtubule assembly by the kinesin-13 KLP-7 prevents chro
 Versatile kinetochore components control central spindle assembly.
 [*Cell Cycle*](https://www.tandfonline.com/doi/full/10.1080/15384101.2015.1062329) 14 (16), 2545-2546
 
-1. G. Maton, F. Edwards, B. Lacroix, M. Stefanutti, K. Laband, T. Lieury, T. Kim, J. Espeut, Julie. C. Canman, J. Dumont.
+1. G. Maton, **F. Edwards**, B. Lacroix, M. Stefanutti, K. Laband, T. Lieury, T. Kim, J. Espeut, Julie. C. Canman, J. Dumont.
 Kinetochore components are required for central spindle assembly.
 [*Nature cell biology*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4636119/) (2015) 17 (5), 697-705
 
